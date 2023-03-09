@@ -1,0 +1,82 @@
+<html>
+<head>
+	<title>My Favorite Movies</title>
+</head>
+<body>
+		<h1><center>MY TOP 5 MOVIE PICKS</center></h1>
+	<ul>
+		<center><a href="#the-dark-knight">The Dark Knight</a></center>
+		<center><a href="#inception">Inception</a></center>
+		<center><a href="#the-prestige">The Prestige</a></center>
+		<center><a href="#the-shawshank-redemption">The Shawshank Redemption</a></center>
+		<center><a href="#forrest-gump">Forrest Gump</a></center>
+	</ul>
+	<center>	
+	<img src="images/the dark knight.jpg" alt="The Dark Knight thumbnail" width="150" height="150">		<img src="images/inception.jpg" alt="Inception thumbnail" width="150" height="150">	<img src="images/Prestige.jpg" alt="The Prestige thumbnail" width="150" height="150">		<img src="images/the shawshank redemption.jpg" alt="The Shawshank Redemption thumbnail" width="150" height="150">		<img src="images/forrest gump.jpg" alt="Forrest Gump thumbnail" width="150" height="150"> 
+	</center>	
+<section id="the-dark-knight">
+	<h1>The Dark Knight</h1>
+	<div align = "left">	
+	<img src="images/the dark knight.jpg" alt="The Dark Knight thumbnail" width="150" height="150"align = "left">
+	<p>The Dark Knight is a 2008 superhero film directed by Christopher Nolan and is the second installment in the Batman trilogy. The film follows Batman (Christian Bale) as he tries to stop the Joker (Heath Ledger), a crazed criminal mastermind, from wreaking havoc on Gotham City. The Joker's unpredictable and violent nature proves to be a formidable challenge for Batman, who must also navigate his complex relationship with District Attorney Harvey Dent (Aaron Eckhart). The Dark Knight is praised for its gripping storyline, intense action sequences, and outstanding performances, particularly Heath Ledger's portrayal of the Joker, which won him a posthumous Academy Award for Best Supporting Actor.</p>	
+		<ul>
+			<a href="https://www.imdb.com/title/tt0468569/">IMDb</a><br>
+			<a href="https://www.rottentomatoes.com/m/the_dark_knight">Rotten Tomatoes</a><br>
+			<a href="https://www.boxofficemojo.com/title/tt0468569/">Box Office Mojo</a><br>
+		</ul>
+
+</section>
+
+<section id="inception">
+	<h1>Inception</h1>
+	<div align = "left">
+	<img src="images/inception.jpg" alt="Inception thumbnail" width="150" height="150"align = "left">
+	<p>Inception is a 2010 science fiction action film written and directed by Christopher Nolan. The film follows Dom Cobb (Leonardo DiCaprio), a skilled thief who is able to enter people's dreams and extract their secrets. Cobb is offered the chance to clear his criminal record if he can perform the seemingly impossible task of inception: planting an idea in someone's mind without them realizing it. As Cobb assembles his team and delves deeper into his own past, he must confront his own demons and the dangers of the dream world. Inception is praised for its mind-bending concept, stunning visuals, and memorable performances.</p>
+		<ul>
+			<a href="https://www.imdb.com/title/tt1375666/">IMDb</a><br>
+			<a href="https://www.rottentomatoes.com/m/inception">Rotten Tomatoes</a><br>
+			<a href="https://www.boxofficemojo.com/title/tt1375666/">Box Office Mojo</a><br>
+		</ul>
+	
+</section>
+
+<section id="the-prestige">
+	<h1>The Prestige</h1>
+	<div align = "left">
+	<img src="images/Prestige.jpg" alt="The Prestige thumbnail" width="150" height="150"align = "left">
+<p>The Prestige is a 2006 mystery thriller film directed by Christopher Nolan and based on the novel of the same name by Christopher Priest. The film follows two rival magicians, Robert Angier (Hugh Jackman) and Alfred Borden (Christian Bale), as they engage in a bitter feud to create the ultimate illusion. As their obsession with outdoing each other becomes more and more dangerous, the two men become trapped in a deadly game of one-upmanship that has devastating consequences. The Prestige is praised for its complex storytelling, stunning visuals, and powerhouse performances from its lead actors.</p>
+
+<ul>
+	<a href="https://www.imdb.com/title/tt0482571/">IMDb</a><br>
+	<a href="https://www.rottentomatoes.com/m/prestige">Rotten Tomatoes</a><br>
+	<a href="https://www.boxofficemojo.com/title/tt0482571/">Box Office Mojo</a><br>
+</ul>
+
+</section>
+<section id="the-shawshank-redemption">
+	<h1>The Shawshank Redemption</h1>
+	<div align = "left">
+	<img src="images/the shawshank redemption.jpg" alt="The Shawshank Redemption thumbnail" width="150" height="150" align = "left">
+	<p>The Shawshank Redemption is a 1994 drama film directed by Frank Darabont and based on the novella Rita Hayworth and Shawshank Redemption by Stephen King. The film tells the story of Andy Dufresne (Tim Robbins), a banker who is wrongly convicted of murder and sent to Shawshank State Penitentiary. In prison, he befriends Red (Morgan Freeman), a fellow inmate, and navigates the harsh realities of prison life while trying to maintain his innocence and plan his escape. The Shawshank Redemption is praised for its powerful performances, nuanced storytelling, and themes of hope, friendship, and perseverance.</p>
+	
+		<ul>
+			<a href="https://www.imdb.com/title/tt0111161/">IMDb</a><br>
+			<a href="https://www.rottentomatoes.com/m/shawshank_redemption">Rotten Tomatoes</a><br>
+			<a href="https://www.boxofficemojo.com/title/tt0111161/">Box Office Mojo</a><br>
+		</ul>
+
+</section>
+
+<section id="forrest-gump">
+	<h2>Forrest Gump</h2>
+	<div align = "left">
+	<img src="images/forrest gump.jpg" alt="Forrest Gump thumbnail" width="150" height="150" align = "left">
+	<p>Forrest Gump is a 1994 comedy-drama film directed by Robert Zemeckis and based on the novel of the same name by Winston Groom. The film follows the life of Forrest Gump (Tom Hanks), a kind-hearted but simple man who unwittingly becomes a witness to and participant in some of the defining moments of American history, from the Vietnam War to the Watergate scandal. Along the way, he forms a deep bond with his childhood friend and love interest, Jenny (Robin Wright). Forrest Gump is praised for its heartwarming story, iconic soundtrack, and Tom Hanks' memorable performance.</p>
+	
+		<ul>
+				<a href="https://www.imdb.com/title/tt0109830/">IMDb</a><br>
+				<a href="https://www.rottentomatoes.com/m/forrest_gump">Rotten Tomatoes</a><br>
+				<a href="https://www.boxofficemojo.com/title/tt0109830/">Box Office Mojo</a><br>
+			</ul>
+	
+	</section>
