@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercise 6</title>
+	<style>
+		body {
+			font-family: Verdana;
+		}
+
+		table {
+			border: 2px solid black;
+			background-color: #F5F5F5;
+			color: black;
+			font-family: Arial;
+			font-size: 16px;
+			margin: auto;
+			text-align: center;
+			width: 50%;
+		}
+
+		th {
+			background-color: #333;
+			color: white;
+			font-size: 24px;
+			font-weight: bold;
+			padding: 10px;
+			text-align: center;
+			text-transform: uppercase;
+		}
+
+		td {
+			padding: 10px;
+			text-align: center;
+			font-size: 18px;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="font-family: Verdana;">My Schedule</h1>
+	<h2 style="font-family: Verdana;">MONDAY:</h2>
+	<table>
+		<caption style="font-family: Verdana; font-size: 24px;">BSCS FIRST YEAR</caption>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Subject</th>
+				<th>Section</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:00 AM - 10:00 AM</td>
+				<td>PROGIT 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>2:00 PM - 3:00 PM</td>
+				<td>CWORLD1</td>
+				<td>EBA6</td>
+			</tr>
+			<tr>
+				<td>4:00 PM - 5:00 PM</td>
+				<td>DITRUC 1</td>
+				<td>IDA2</td>
+			</tr>
+			<tr>
+				<td>5:00 PM - 6:00 PM</td>
+				<td>NSTPRO 2</td>
+				<td>IBA</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<h2 style="font-family: Verdana;">Tuesday:</h2>
+	<table>
+		<caption style="font-family: Verdana; font-size: 24px;">BSCS FIRST YEAR</caption>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Subject</th>
+				<th>Section</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>8:00 AM - 9:30 AM</td>
+				<td>SCITES1</td>
+				<td>LAH</td>
+			</tr>
+			<tr>
+				<td>9:30 AM - 10:30 AM</td>
+				<td>HUMCOM 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>12:00 PM - 1:00 PM</td>
+				<td>SITNET 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>2:00 PM - 5:00 PM</td>
+				<td>PROGIT 1</td>
+				<td>IDA3</td>
+				</tr>
+				</tbody>
+				</table>
+				
+		<h2 style="font-family: Verdana;">WEDNESDAY</h2>
+	<table>
+		<caption style="font-family: Verdana; font-size: 24px;">BSCS FIRST YEAR</caption>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Subject</th>
+				<th>Section</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>9:00 AM - 10:00 AM</td>
+				<td>PROGIT 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>12:00 PM - 2:00 PM</td>
+				<td>PATHFIT2</td>
+				<td>IDA2</td>
+			</tr>
+			<tr>
+				<td>2:00 PM - 3:00 PM</td>
+				<td>CWORLD1</td>
+				<td>EBA6</td>
+			</tr>
+			<tr>
+				<td>4:00 PM - 5:00 PM</td>
+				<td>DITRUC 1</td>
+				<td>IDA2</td>
+			</tr>
+			<tr>
+				<td>5:00 PM - 6:00 PM</td>
+				<td>NSTPRO 2</td>
+				<td>IBA</td>
+			</tr>
+		</tbody>
+	</table>
+
+<h2 style="font-family: Verdana;">THURSDAY:</h2>
+	<table>
+		<caption style="font-family: Verdana; font-size: 24px;">BSCS FIRST YEAR</caption>
+		<thead>
+			<tr>
+				<th>Time</th>
+				<th>Subject</th>
+				<th>Section</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>8:00 AM - 9:30 AM</td>
+				<td>SCITES1</td>
+				<td>LAH</td>
+			</tr>
+			<tr>
+				<td>9:30 AM - 10:30 AM</td>
+				<td>HUMCOM 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>12:00 PM - 1:00 PM</td>
+				<td>SITNET 1</td>
+				<td>IDA3</td>
+			</tr>
+			<tr>
+				<td>2:00 PM - 5:00 PM</td>
+				<td>PROGIT 1</td>
+				<td>IDA3</td>
+				</tr>
+				</tbody>
+				</table>
+<h2 style="font-family: Verdana;">FRIDAY:</h2>
+<table>
+	<caption style="font-family: Verdana; font-size: 24px;">BSCS FIRST YEAR</caption>
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Subject</th>
+			<th>Section</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>8:00 AM - 11:00 AM</td>
+			<td>SITNET 1</td>
+			<td>IDA3</td>
+		</tr>
+		<tr>
+			<td>11:00 AM - 2:00 PM</td>
+			<td>HUMCOM 1</td>
+			<td>IDA3</td>
+		</tr>
+		<tr>
+			<td>2:00 PM - 3:00 PM</td>
+			<td>CWORLD1</td>
+			<td>EBA6</td>
+		</tr>
+		<tr>
+			<td>4:00 PM - 5:00 PM</td>
+			<td>DITRUCT 1</td>
+			<td>---</td>
+		</tr>
+		<tr>
+			<td>5:00 PM - 6:00 PM</td>
+			<td>NSTPRO 2</td>
+			<td>IBA</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
